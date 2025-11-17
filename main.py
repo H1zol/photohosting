@@ -21,7 +21,7 @@ logging.basicConfig(
 
 # === КОНФИГУРАЦИЯ ===
 BOT_TOKEN = os.getenv('BOT_TOKEN')  # Токен из .env
-ADMIN_ID = 123456789  # Твой ID прямо в коде
+ADMIN_ID = 7752488661  # Твой ID прямо в коде
 
 # Создаем роутер
 router = Router()
