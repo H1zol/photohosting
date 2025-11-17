@@ -30,7 +30,7 @@ logging.basicConfig(
 
 # === КОНФИГУРАЦИЯ ===
 BOT_TOKEN = os.environ.get('BOT_TOKEN')
-ADMIN_ID = 123456789  # Твой ID
+ADMIN_ID = 7752488661  # Твой ID
 
 class Database:
     def __init__(self, db_path="users.db"):
